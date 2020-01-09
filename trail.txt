@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is
 secondb
+=======
+this
+is
+third
+
+>>>>>>> thirdb
